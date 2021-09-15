@@ -1,4 +1,9 @@
-### Rangkuman Minggu Ke-2
+Nama  : Rajendra Rakha Arya P
+Kelas : 3H
+
+---
+
+### Summary Minggu Ke-2
 
 When we create Android applications, we can use software called android studio.
 Before the existence of android studio, the main pioneer was Eclipse.
@@ -12,7 +17,7 @@ Broadcast, which is a component that functions as a notification from other appl
 Next is Service which is a component which aims to carry out processes behind the scenes for example music play, GPS, sms receiver, etc.
 And the last one is Content where this component is managed from various sources.
 
-### Didalam Android Studio juga ada proses development dan buildingnya diantaranya :
+### In Android Studio there is also a development and building process including:
 
 1. UI Design This process can be called front end or we use XML Code format to design and display according to user needs.
 2. Application Development This process can be called the backend, or we give a function command that has been created from the frontend, for example if we click a button it will cause another activity.

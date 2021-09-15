@@ -1,0 +1,45 @@
+An Activity is an application component.
+Represents one window, one hierarchy of views
+Typically fills the screen, but can be embedded in other
+activity or a appear as floating window its Java class, typically one activity in one file
+
+Activity do Represents an activity, such as 
+● ordering groceries, sending email, or getting directions
+● Handles user interactions, such as button clicks, text entry,
+or login verification
+● Can start other activities in the same or other apps
+● Has a life cycle—is created, started, runs, is paused,
+resumed, stopped, and destroyed
+
+Implement new activities
+1. Define layout in XML
+2. Define Activity Java class
+○ extends AppCompatActivity
+3. Connect Activity with Layout
+○ Set content view in onCreate()
+4. Declare Activity in the Android manifest
+
+Intent is a description of an operation to be performed.
+An Intent is an object used to request an action from another
+app component via the Android system. 
+Intents can start activities, services, and deliver broadcasts
+Intent has Explicit Intent and Implicit Intent
+● Explicit : Starts a specific activity
+● Implicit : Asks system to find an activity that can handle this request
+
+Activity stack
+● When a new activity is started, the previous activity is
+stopped and pushed on the activity back stack
+● Last-in-first-out-stack—when the current activity ends, or the
+user presses the Back button, it is popped from the
+stack and the previous activity resumes
+
+Two forms of navigation
+● Temporal or back navigation
+provided by the device's back button
+controlled by the Android system's back stack
+● Ancestral or up navigation
+Provided by the app's action bar
+Controlled by defining parent-child relationships
+between activities in the Android manifest
+

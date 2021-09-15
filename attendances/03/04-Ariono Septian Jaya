@@ -1,0 +1,19 @@
+### Summary Week 3
+### WIDGET
+> A widget is an element of a graphical user interface ( GUI ) 
+that displays information or provides a specific way for a user to interact with the operating system or an application.
+include :
+
+1. TextView
+2. Button
+3. ScrollView
+4. ImageView
+5. etc
+
+### NAVIGATION
+Navigation is a framework for navigating between 'destinations' within 
+an Android application that provides a consistent API whether destinations are implemented as Fragments, Activities, or other components.
+> There is always a starting point, which is the first screen a user sees when they first open an app and becomes the last screen when they are about to close it.
+You can always go back; in fact, the screen we create must feature a back function that allows you to return from your current location to the beginning.
+The Up button must have the same back function as the system back button, i.e. it must go back. The up button is typically found in the upper left corner of an app, 
+whereas the system back button is typically found in the bottom right corner of an app or mobile phone.

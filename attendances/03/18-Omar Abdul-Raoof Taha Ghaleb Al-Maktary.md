@@ -1,2 +1,0 @@
-Today we will continue on the a APLAS models. I'm going to work on B4 and continue my progress. B4 is another basic app to create an android application that contains several activities entitled Animal Tour. First with project configuration and resource configuration.
-In today's lesson we will learn about widgets, Widgets enable users to interact with an Android Studio application page. There are various kinds of widgets, such as Buttons and TextViews.

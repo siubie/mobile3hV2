@@ -26,4 +26,4 @@ b.	Implicit Intent
 Ask system to find an activity that can handle request, Example : Find an open store that sells green tea => clicking Share opens a chooser with a list of apps. So we can use intent to show web page, dial phone number, email, etc.
 3.	Two type of sending data with intents:
 a.	Data => one piece of information whose data location can be represented by an URL
-b.	Extras => 
+b.	Extras => one or more pieces of information collection of key value pairs in bundle.

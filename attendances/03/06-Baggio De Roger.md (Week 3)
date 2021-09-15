@@ -1,0 +1,12 @@
+Activity and Intent:
+In today's meeting, we have learned about activities and intents.
+To put it simple, An application component for displaying a user interface. The activity class is where all user interactions are handled (button presses, list selections). 
+An activity specifies a layout to represent it on screen.An application will consist of several activities. When you move from screen to screen, 
+generally you are changing Activities, replacing what is on the screen with the new contents and controller.The expected use of Activity subclasses is to control the contents 
+and behaviour of the application window.Activity is your user interface and whatever you can do with a user interface. 
+On the other hand,an intent is a system message. It can be broadcast around the system to notify other applications (or your own!) of an event, 
+or it can be used to request that the system display a new activity.Intents are mostly used when you want to switch from one view (i.e. one Activity) to another one.
+When you move from one user interface, you need to launch that new user interface with an Intent. The Intent is your event that is passed along with data from the first user interface 
+to another.Intents can be used between user interfaces and background services too. Also an Intent is passed when you want to broadcast data to all activities and background services.
+
+

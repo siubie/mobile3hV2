@@ -1,4 +1,5 @@
-Android Basic XML Layouts
+Android 
+Basic XML Layouts
 
 Containers
     LinearLayout  is the most common modeling tool. It offers a "box" model similar to the Java-Swing  Box-Layout. 
@@ -31,5 +32,5 @@ Summary of Commonly-used Android containers
         flexible and harder to maintain than other types of layouts without absolute positioning. 
 
 Android’s simplest layout manager is called: Frame Layout, a Frame Layout is a rectangular container that pins each 
-child to its upper left corner.Adding multiple views to a frame layout just stacks one on top of the other (over
+child to its upper left corner. Adding multiple views to a frame layout just stacks one on top of the other (over
 lapping the views)

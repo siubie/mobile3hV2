@@ -1,0 +1,40 @@
+### Summary Week 3
+
+### Activities
+    >An activity is a component of an application that represents a single window and a single hierarchy of views. Normally occupies the screen, however it can be integrated in other activities or appear as a floating window java class, with one activity per file.
+    In terms of activity An action is something like ordering groceries, writing an email, or receiving directions. User interactions and a variety of other processes are handled by activities.
+
+### Step To Implement Activities
+    - Define layout in XML
+    - Define Activity Java class
+    - Connect Activity with Layout : Set content view in onCreate(). Parameter in setContentView is R.id.activity_main. Which is R is stand for Resource, layout is stand for layout, and activity_main is the xml file.
+    - Declare Activity in the Android manifest.
+
+### Intens
+    An intent is a description of an operation to be performed. It is an object used to request an action from another app component via the Android system.
+    - Explicit Intent
+        Starts a specific activity
+            Main activity starts the ViewShoppingCart activity
+    - Implicit Intent
+        Asks system to find an activity that can handle this request
+            Find an open store that sells green tea
+                Clicking Share opens a chooser with a list of apps
+
+### WIDGET
+    > A widget is an element of a graphical user interface ( GUI ) 
+    that displays information or provides a specific way for a user to interact with the operating system or an application.
+    include :
+
+    1. TextView
+    2. Button
+    3. ScrollView
+    4. ImageView
+    5. etc
+
+### NAVIGATION
+    Navigation is a framework for navigating between 'destinations' within 
+    an Android application that provides a consistent API whether destinations are implemented as Fragments, Activities, or other components.
+    > There is always a starting point, which is the first screen a user sees when they first open an app and becomes the last screen when they are about to close it.
+    You can always go back; in fact, the screen we create must feature a back function that allows you to return from your current location to the beginning.
+    The Up button must have the same back function as the system back button, i.e. it must go back. The up button is typically found in the upper left corner of an app, 
+    whereas the system back button is typically found in the bottom right corner of an app or mobile phone.

@@ -1,0 +1,36 @@
+Android 
+Basic XML Layouts
+
+Containers
+    LinearLayout  is the most common modeling tool. It offers a "box" model similar to the Java-Swing  Box-Layout. 
+Summary of Commonly-used Android containers  
+
+    1. LinearLayout (the box model), 
+            indicates whether the LinearLayout represents a row or a column. Add the android:orientation property to 
+        your LinearLayout element in your XML layout, setting the value to be horizontal for a row or vertical for a 
+        column. The orientation can be modified at runtime by invoking setOrientation().
+
+    2. RelativeLayout (a rule-based model),
+            RelativeLayout places widgets based on their relationship to other widgets in the container and the parent
+        container. 
+
+    3. TableLayout (the grid model), along with 
+            Android's TableLayout allows you to position your widgets in a grid made of identifiable rows and columns.
+        Columns might shrink or stretch to accommodate their contents. TableLayout works in conjunction with TableRow. 
+        TableLayout controls the overall behavior of the container, with the widgets themselves positioned into one or 
+        more TableRow containers, one per row in the grid.
+
+    4. ScrollView, 
+            a container designed to assist with implementing scrolling containers. When we have more data than what can
+        be shown on a single screen you may use the ScrollView control.It provides a sliding or scrolling access to the
+        data. This way the user can only see part of your layout at one time, but the rest is available via scrolling.
+        This is similar to browsing a large web page that forces the userto scroll up the page to see the bottom part of
+        the form.
+
+    5. Miscellaneous Absolute Layout
+            A layout that lets you specify exact locations (x/y coordinates) of its children. Absolute layouts are less
+        flexible and harder to maintain than other types of layouts without absolute positioning. 
+
+Android’s simplest layout manager is called: Frame Layout, a Frame Layout is a rectangular container that pins each 
+child to its upper left corner. Adding multiple views to a frame layout just stacks one on top of the other (over
+lapping the views)

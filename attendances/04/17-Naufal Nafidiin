@@ -1,0 +1,22 @@
+Today we are learning about ListView and RecyclerView
+
+What is a RecyclerView?
+A RecyclerView is used to display a large list of items with their own specific Views within the user interface in a performance optimised manner
+
+
+What is a ListView?
+ListView has been around since API version 1 and is used to display a list of items that can be scrolled vertically.
+A ListView is an adapter view and uses a ListAdapter to create and populate the item Views.
+ArrayAdapter and SimpleCursorAdapter are examples of adapters than can be used to provide the items to the ListView by using the setAdapter(ListAdapter) method and
+passing the Adapter to bind data the ListView.
+ArrayAdapter can be used when you have a collection of Strings you would like displayed in a ListView.
+SimpleCursorAdapter can be used when you have data coming from a Cursor such as results of a database query or content provider you want displayed in a ListView.
+ListView does has some limited performance optimisation built into it. It will create and lay out the Views in the list as the user can see them on screen and 
+then will lay out additional Views as the user scrolls. The adapter on the ListView will reuse Views of the same type where possible.
+
+Summary
+RecyclerView has a mandatory use of the ViewHolder pattern providing better performance over ListView that requires customisation to support the ViewHolder pattern
+RecyclerView has greater support for LayoutManagement including vertical lists, horizontal lists, grids and staggered grids. ListView only supports vertical lists.
+ListView starts by default with dividers between items and requires customisation to add decorations. ItemDecoration class is available for RecyclerView to add drawings on top or underneath Items as well adding margins.
+RecyclerView adapters can inform you which items in your data has changed not just that your dataset has changed
+Due to the RecyclerView Adapters enabling us to be more specific about the data being changed, animations in RecyclerView are substantially easier to implement through the ItemAnimator compared to ListView

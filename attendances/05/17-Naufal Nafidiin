@@ -1,0 +1,34 @@
+Flutter is an open source framework created by Google. Google made flutter with the goal of building a framework for creating modern, native UI
+and reactive that can run on iOS and Android operating systems. 
+Not only on Google smartphones also make Flutter for desktop, web and embedded devices.
+Flutter is programmed using Dart, a modern language that can compiled to ARM processor architecture or javascript. Flutter using Skia 2D rendering engine that can work on different hardware or software platforms.
+Dart uses the ahead of time (AOT) compilation method to modify Dart code become native code for the operating system used, therefore the application built using flutter has almost the same speed as native apps.
+Dart also uses the concept of just-in-time (JIT) to allow programmers to make changes to the program code and immediately see the results through the hot feature reload that Flutter has.
+Flutter uses Dart to create a User Interface, making it easier to use make applications because it uses one language (Dart) in making UI and logic program. 
+Flutter uses a declarative approach where Flutter builds the UI follow the "State" owned by the application. When the state changes the UI will be drawn repeat .
+
+Flutter also makes it easier for programmers because from one program code can be compiled
+to native ARM code, using the GPU and accessing specific features of the smartphone either
+using the iOS operating system or those using the Android operating system. So
+with one time making the program can create 2 applications for the same operating system
+different (iOS or Android)
+
+
+As mentioned above, this open-source and free SDK is backed by Google and used to develop applications for Android and iOS.
+It is based on Dart language and provides captivating graphics library. The major features of this platform are:
+1. Platform-specific SDKs
+2. Design-specific widgets
+3. Fully customized environment
+4. Native performance
+5. Stateful Hot Reload feature for faster app development
+
+Flutter Web advantages
+1. Flutter is able to handle large chunks of data.
+2. Great ability to render graphical effects, transitions, and animations. 
+3. Outstanding support for both Material and Cupertino design UI elements.
+4. Renders animations in up to 60 frames per second.
+5. Huge amount open source and commercial libraries on pub.dev
+6. Ability to implement a game engine for specialized products with advanced animations and physics.
+7. Ability to be integrated with already existing web app as embedded elements. 
+8. It’s possible to run JS code from within Flutter Web. Great option if there is some JS library or SDK you need to use. 
+9. PWA support.

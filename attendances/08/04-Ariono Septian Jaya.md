@@ -1,0 +1,9 @@
+Ariono Septian Jaya
+TI 3H 
+
+working on flutter chapter 3, which is learning about how to create a simple application that has a statefull widget. For making the Temperature Conversion application, you start by making a design that can be started by making a wireframe or a complete design in the software. To simplify the design process, a simple template has been provided in the starter code using a material design template. Learn to simplify the process of converting designs to stateless widgets that have been exemplified and have been represented into a tree layout in the Flutter Chapter 3 jobsheet. Learn about shortcuts in Visual Studio Code, namely the CTRL + shortcut. which can be used to wrap an existing widget or to create a created widget into a new class. Learned how to have a TextField only display number-only keyboard input and have numeric-only validation. Learn to retrieve user input data that is in a TextField using a TextEditingController. Know how to create functions that can be called later. Learn about the use of splitting widgets into new classes and moving them to new files, so main.dart doesn't have too long of programming lines. Learn to create an event to convert temperature, where in that event there is a formula to convert temperature. The result of the conversion must be changed to double because what the user input is a string.
+
+working chapter 4
+
+Doing chapter 4 practicals learn how to use arrays or lists to create applications using flutter. The application made will develop the application that was made in chapter 3, namely to convert the temperature. Here is an application mockup design that will be created. In chapter 4 application will
+Added DropdownButton and ListView widget.

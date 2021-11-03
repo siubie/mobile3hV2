@@ -1,0 +1,7 @@
+Flutter is different because it only has a thin layer of C/C++ code. Flutter implements most of its system (compositing, gestures, animation, framework, widgets, etc) in Dart 
+(a modern, concise, object-oriented language) that developers can easily approach read, change, replace, or remove. This gives developers tremendous control over the system, 
+as well as significantly lowers the bar to approachability for the majority of the system.
+Flutter is different than most other options for building mobile apps because it doesn’t rely on web browser technology nor the set of widgets that ship with each device. 
+Instead, Flutter uses its own high-performance rendering engine to draw widgets.
+Row, Column widgets let you create flexible layouts in both the horizontal (Row) and vertical (Column) directions. The design of these objects is based on the web’s flexbox 
+layout model.

@@ -1,0 +1,5 @@
+Ariono Septian Jaya 
+TI 3H
+Flutter is an SDK so it definitely comes with useful features for developing cross-platform applications.
+For example, rendering engines, ready-to-use widgets, testing and integration APIs, to command-line tools.
+Flutter differs from previous frameworks in that its user interface is written in code rather than (for example) in an XML file. Widgets are the fundamental components of a Flutter user interface. You'll discover that practically everything in Flutter is a widget as you work your way through this codelab. A widget is an immutable object that represents a specific aspect of the user interface. You'll also discover that Flutter widgets are composable, which means you can mix different widgets to create more complex widgets. You'll get to put what you've learned into practice by creating a Flutter UI that displays a business card at the end of this codelab. Classes for Rows and Columns Row and Column are widget container and layout classes. 

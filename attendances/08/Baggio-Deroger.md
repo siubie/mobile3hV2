@@ -3,6 +3,9 @@ On flutter, we have learned about statefull, controller, property, layouting and
 
 A stateful widget is dynamic: for example, it can change its appearance in response to events triggered by user interactions or when it receives data. Checkbox, Radio, Slider, InkWell, Form, and TextField are examples of stateful widgets. Stateful widgets subclass StatefulWidget.
 
+A Stateless widget is static / final where the value or configuration has been initialized from the start, the variable value in this widget cannot be changed by this widget itself
+but it can be changed by the parent widget if the parent is StatefullWidget
+
 Add the layout widget to the page
 on lib/main.dart (MyApp):
 class MyApp extends StatelessWidget {

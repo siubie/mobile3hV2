@@ -19,4 +19,16 @@ a. Memiliki hint dengan text “Masukkan Suhu Dalam Celcius”
 b. Memiliki validasi hanya angka.
 c. Memiliki tampilan input keyboard khusus angka.
 
-
+## Membuat Aplikasi Interaktif
+Setelah berhasil membuat layout selanjutnya adalah membuat aplikasi yang mamapu
+melakukan konversi suhu dari input berupa derajat celcius ke tiga derajat lain yaitu kelvin,
+reamur dan fahrenheit.
+# Convert Ke Statefull Widget
+# Membuat state
+# Mengambil Data Input Suhu
+# Membuat event
+# Membuat output result
+# membagi widget ke yg lebih kecil 
+Lakukan lah extraksi widget ke file yang berbeda dengan cara Ctrl + . pada widget
+yang ingin anda potong dan pilih menu Extract Widget, berikanlah nama class yang sesuai
+dan pindahkan ke file baru.

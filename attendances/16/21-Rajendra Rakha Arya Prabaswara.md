@@ -22,7 +22,7 @@
 
 ---
 
-<h1 align="center">For Mr. Putra Prima Ai<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">For Mr. Putra Prima A<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <h2 align="center">Thank You for the knowledge that has been given to us in this Mobile Course</h2>
 

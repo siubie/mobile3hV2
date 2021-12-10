@@ -6,10 +6,28 @@ Kelas : 3H
 
 ### Summary Minggu Ke-14
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## Sql Lite Database 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+SQLite is a serverless and standalone database. With Sql Lite we can save data and learn about CRUD (Create,Reset,Update,Delete ) Data.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## FIrebase
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Firebase is a service from Google that is used to make it easier for application developers to develop applications. With Firebase, app developers can focus on developing apps without having to put in a lot of effort. Two interesting features of Firebase are Firebase Remote Config and Firebase Realtime Database. In addition, there are supporting features for applications that require notifications, namely Firebase Notification.
+
+1. Firebase Authentication
+
+Firebase Authentication is an authentication system service that implements a client-side code, so that users can register and login to Google applications.
+
+Additionally, Firebase includes a user management system where developers can enable user authentication with email logins and passwords stored with Firebase.
+
+Firebase Authentication supports authentication using passwords, phone numbers, popular unified identity providers, such as Google, Facebook, and Twitter, and more.
+
+## Additional 
+
+- **Future** is a "data type" that is called with a delay or "delay". No
+Like any other method, the system will continue to execute that method until that method
+done walking
+
+- **async** : uses future on a method, thus making the system wait until blocking occurs. Therefore, the method must be marked with async.
+
+- **await** : If any method is marked await, it means that the system must wait until The syntax is finished.

@@ -28,9 +28,9 @@
 
 <p align="center">
 <a href="https://github.com/siubie">
-  <img width="auto" src="https://im2.ezgif.com/tmp/ezgif-2-0effd4ac1e16.webp" height="auto"/>
+  <img width="auto" src="https://user-images.githubusercontent.com/75615789/147627102-a9764eb5-f2d9-4aa0-9bc7-96d5e40c81bd.gif" height="auto"/>
   </a>
-</p>
+
 
 
 <h2 align="center">Rajendra Rakha | 1941720080</h2>
